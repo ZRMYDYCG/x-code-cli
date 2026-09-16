@@ -1,3 +1,9 @@
+## v0.6.1 (2026-09-16)
+
+### Features
+
+- refresh model catalog and DeepSeek vision (#30) (5126dff)
+
 ## v0.6.0 (2026-08-31)
 
 ### Features
